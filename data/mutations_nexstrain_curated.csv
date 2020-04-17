@@ -1,0 +1,15 @@
+Uniprot,start,end,Color,mutations,gene,gisaid_epi_isl,author,genbank_accession,page
+P0DTC7,1,121,#ff0000,P34S,ORF7a,EPI_ISL_402120,Tan et al,nan,https://nextstrain.org/ncov
+P0DTC7,1,121,#ff0000,I100F,ORF7a,EPI_ISL_416345,Wang et al,nan,https://nextstrain.org/ncov
+P0DTC2,1,1273,#f2ff00,F32I,S,EPI_ISL_402132,Fang et al,nan,https://nextstrain.org/ncov
+P0DTD1,1,7096,#0000FF,L2235I,ORF1a,EPI_ISL_406798,Chen et al,LR757998,https://nextstrain.org/ncov
+P0DTD1,1,7096,#0000FF,N3833K,ORF1a,EPI_ISL_406798,Chen et al,LR757998,https://nextstrain.org/ncov
+P0DTD1,1,7096,#0000FF,I2244T,ORF1a,EPI_ISL_403930,Ren et al,MT019531,https://nextstrain.org/ncov
+P0DTD1,1,7096,#0000FF,D2579A,ORF1a,EPI_ISL_402130,Zhou et al,MN996531,https://nextstrain.org/ncov
+P0DTD1,1,7096,#0000FF,T3090I,ORF1a,EPI_ISL_402130,Zhou et al,MN996531,https://nextstrain.org/ncov
+P0DTD1,1,7096,#0000FF,G2251S,ORF1a,EPI_ISL_402128,Zhou et al,MN996529,https://nextstrain.org/ncov
+P0DTD1,1,7096,#0000FF,P2144L,ORF1a,EPI_ISL_416345,Wang et al,nan,https://nextstrain.org/ncov
+P0DTD1,1,7096,#0000FF,G2269S,ORF1a,EPI_ISL_416345,Wang et al,nan,https://nextstrain.org/ncov
+P0DTD1,1,7096,#0000FF,T4304A,ORF1a,EPI_ISL_416345,Wang et al,nan,https://nextstrain.org/ncov
+P0DTD1,1,7096,#0000FF,N2708S,ORF1a,EPI_ISL_402123,Ren et al,MT019529,https://nextstrain.org/ncov
+P0DTD1,1,7096,#0000FF,F2908I,ORF1a,EPI_ISL_402123,Ren et al,MT019529,https://nextstrain.org/ncov
